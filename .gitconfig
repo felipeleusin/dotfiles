@@ -1,6 +1,0 @@
-[push]
-	default = current
-[diff]
-	algorithm = patience
-[fetch]
-  prune = true

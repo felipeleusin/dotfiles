@@ -1,0 +1,9 @@
+[user]
+  name = Felipe Leusin
+  email = felipe.leusin@shopify.com
+[push]
+  default = current
+[diff]
+  algorithm = patience
+[fetch]
+  prune = true
