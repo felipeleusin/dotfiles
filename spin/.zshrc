@@ -12,6 +12,9 @@ zstyle ':vcs_info:*' enable git
 
 PROMPT='%(?.%F{green}√.%F{red}?%?)%f %B%~%b $vcs_info_msg_0_ $ '
 
+alias sc='systemctl'
+alias jc='journalctl'
+
 # Git Aliases from oh-my-zsh
 
 #
