@@ -1,5 +1,8 @@
 # Interactive prompt
 
+autoload -Uz compinit
+compinit
+
 autoload -Uz vcs_info
 precmd_functions+=( vcs_info )
 setopt prompt_subst
