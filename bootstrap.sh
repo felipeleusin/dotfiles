@@ -10,6 +10,6 @@ then
   if [[ "$SPIN_REPO_SOURCE_PATH" = "/src/github.com/shopify/shopify" ]]
   then
     cartridge insert felipeleusin/email-team-bootstrap
-    . /cartridges/email-team-bootstrap/setup.sh
+    . ~/.data/cartridges/email-team-bootstrap/setup.sh
   fi
 fi
