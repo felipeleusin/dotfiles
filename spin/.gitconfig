@@ -3,6 +3,7 @@
   email = felipe.leusin@shopify.com
 [push]
   default = current
+  autoSetupRemote = true
 [diff]
   algorithm = patience
 [fetch]
